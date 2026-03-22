@@ -1,4 +1,4 @@
-![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 <!--
 **MrDigii/MrDigii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
